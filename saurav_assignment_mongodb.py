@@ -20,7 +20,7 @@ db = client.get_database('Mflix')
 # 		record2 = loads(json_str)
 # 		data.append(record2)
 # #
-# for line in data[:2]:
+# for line in data:
 #     print(line)
 	# collection.insert_one(line)
 
